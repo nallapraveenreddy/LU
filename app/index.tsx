@@ -10,6 +10,7 @@ export default function Index() {
       }}
     >
       <Text>This is my First react Native project.</Text>
+      <Text>Here I am going to Build a Project which is a To Do List</Text>
     </View>
   );
 }
